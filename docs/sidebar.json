@@ -1,8 +1,8 @@
 {
-  "Notebook": {
-    "Show doc": "/showdoc",
-    "Test functions": "/test",
-    "Core functions": "/core",
-    "Command line functions": "/cli"
+  "test_fmi": {
+    "Overview": "/",
+    "module name here": "core.html",
+    "Title": "one.html",
+    "explore": "explore.html"
   }
 }

@@ -7,18 +7,18 @@ entries:
 - folders:
   - folderitems:
     - output: web,pdf
-      title: Show doc
-      url: /showdoc
+      title: Overview
+      url: /
     - output: web,pdf
-      title: Test functions
-      url: /test
+      title: module name here
+      url: core.html
     - output: web,pdf
-      title: Core functions
-      url: /core
+      title: Title
+      url: one.html
     - output: web,pdf
-      title: Command line functions
-      url: /cli
+      title: explore
+      url: explore.html
     output: web
-    title: Notebook
+    title: test_fmi
   output: web
   title: Sidebar

@@ -7,7 +7,8 @@ index = {"instance_sort": "02_explore.ipynb",
          "instance_show": "02_explore.ipynb",
          "get_dicom_image": "02_explore.ipynb"}
 
-modules = ["explore.py"]
+modules = ["one.py",
+           "explore.py"]
 
 doc_url = "https://asvcode.github.io/test_fmi/"
 

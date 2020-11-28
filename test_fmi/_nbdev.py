@@ -2,9 +2,12 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"instance_sort": "02_explore.ipynb",
+         "instance_dcmread": "02_explore.ipynb",
+         "instance_show": "02_explore.ipynb",
+         "get_dicom_image": "02_explore.ipynb"}
 
-modules = []
+modules = ["explore.py"]
 
 doc_url = "https://asvcode.github.io/test_fmi/"
 
